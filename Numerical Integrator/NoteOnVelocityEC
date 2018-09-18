@@ -1,0 +1,6 @@
+Note on how to input velocity:
+Each time when you run the simulation, you need to enter a value in the command prompt. Then press enter to make sure its entered.
+Then click on the simulation screen, then press space bar to run.
+
+To reset, press r, the simulation will freeze. Then again enter the value in the command prompt, press enter. At this point
+the simulation screen will reset as well. Then press space bar to run. 

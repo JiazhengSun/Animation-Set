@@ -1,0 +1,11 @@
+For this program I did two color mode channels, and each works separately.
+Press 'R' or 'G' or 'B' to switch to colored smoke channels to draw or display colored Fluid.
+Press 'N' to switch to non-colored smoke to draw or display white smoke as originally given.
+
+For example:
+After compiling the code, run ./main.out, now you draw white smoke.
+Press r or g or b, and draw colored smoke on a separate layer. Red, green and blue are according to the key you press.
+Smoke of different color can coexist in the same layer, but white smoke has to be a separate layer.
+
+run ./main.out -p to view the read-in image and coded velocity field. When black screens pops out,switch to colored layer
+by pressing r or g or b. 
